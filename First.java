@@ -6,5 +6,10 @@ public class First
 		System.out.println("Git Lecture...");
 		System.out.println("Git...");
 		System.out.println("First Git...");
+		
+		int a=10;
+		int b=20;
+		int c = a+b;
+		System.out.println(c);
 	}
 }
